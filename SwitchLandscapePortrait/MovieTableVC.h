@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MovieTableVC.h
 //  SwitchLandscapePortrait
 //
 //  Created by Cuong Trinh on 2/16/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MovieTableVC : UITableViewController
 
 @end
-
